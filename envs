@@ -1,0 +1,20 @@
+####USER DEFINED ENVS###########
+ZABBIX=pvzabbix01.cosmote.gr
+JAVA_HOME=/opt/JAVA_x64
+WEBLOGIC_HOME=/opt/orasync/Middleware/product/Oracle_Home/wlserver
+MAIL_LIST="azakopoulos@ote.gr iokatsikas@ote.gr"
+export SCRIPT_HOME=/opt/orasync/scripts/threads
+DUMPS=/logs/dumps
+####USER DEFINED ENVS###########
+
+HOST=`/bin/hostname`
+CURRENT_USER=$(whoami)
+YEAR=`date '+%Y'`
+MONTH=`date '+%m'`
+DAY=`date '+%d'`
+HOUR=`date '+%H'`
+MINUTE=`date '+%M'`
+SECOND=`date '+%S'`
+DATE=$YEAR.$MONTH.$DAY.$HOUR.$MINUTE.$SECOND
+
+export PYTHONPATH=$SCRIPT_HOME:$PYTHONPATH

@@ -1,0 +1,38 @@
+
+Initializing WebLogic Scripting Tool (WLST) ...
+
+Welcome to WebLogic Server Administration Scripting Shell
+
+Type help() for help on available commands
+
+
+EXA_sync_osb2 has 0 stuck threads.
+EXA_sync_osb1 has 0 stuck threads.
+XSyncAdmin has 0 stuck threads.
+EXA_sync_osb4 has 0 stuck threads.
+EXA_sync_osb3 has 0 stuck threads.
+EXA_sync_osb2 has 2 hogging threads.
+EXA_sync_osb1 has 2 hogging threads.
+XSyncAdmin has 0 hogging threads.
+EXA_sync_osb4 has 1 hogging threads.
+EXA_sync_osb3 has 1 hogging threads.
+EXA_sync_osb2 has 114 total threads.
+EXA_sync_osb1 has 96 total threads.
+XSyncAdmin has 57 total threads.
+EXA_sync_osb4 has 92 total threads.
+EXA_sync_osb3 has 86 total threads.
+EXA_sync_osb2 has 0 pending requests. 
+EXA_sync_osb1 has 0 pending requests. 
+XSyncAdmin has 0 pending requests. 
+EXA_sync_osb4 has 0 pending requests. 
+EXA_sync_osb3 has 0 pending requests. 
+EXA_sync_osb2 has 0   queue length. 
+EXA_sync_osb1 has 0   queue length. 
+XSyncAdmin has 0   queue length. 
+EXA_sync_osb4 has 0   queue length. 
+EXA_sync_osb3 has 0   queue length. 
+EXA_sync_osb2 has 92   standby threads. 
+EXA_sync_osb1 has 61   standby threads. 
+XSyncAdmin has 53   standby threads. 
+EXA_sync_osb4 has 80   standby threads. 
+EXA_sync_osb3 has 71   standby threads. 

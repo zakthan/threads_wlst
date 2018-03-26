@@ -1,0 +1,8 @@
+function mail_function() {
+MAIL_LIST=$1
+SUBJECT=$2
+MAIN=$3
+
+##more "$MAIN"|mailx -s "$SUBJECT" $MAIL_LIST 
+mailx -s "$SUBJECT" $MAIL_LIST < $MAIN
+}

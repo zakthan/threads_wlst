@@ -1,0 +1,5 @@
+xadminp XSyncAdmin
+xosbsp1 EXA_sync_osb1
+xosbsp2 EXA_sync_osb2
+xosbsp3 EXA_sync_osb3
+xosbsp4 EXA_sync_osb4
