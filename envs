@@ -1,5 +1,5 @@
 ####USER DEFINED ENVS###########
-ZABBIX=pvzabbix01.cosmote.gr
+ZABBIX=********
 JAVA_HOME=/opt/JAVA_x64
 WEBLOGIC_HOME=/opt/orasync/Middleware/product/Oracle_Home/wlserver
 MAIL_LIST="azakopoulos@ote.gr iokatsikas@ote.gr"
