@@ -2,7 +2,7 @@
 ZABBIX=********
 JAVA_HOME=/opt/JAVA_x64
 WEBLOGIC_HOME=/opt/orasync/Middleware/product/Oracle_Home/wlserver
-MAIL_LIST="azakopoulos@ote.gr iokatsikas@ote.gr"
+MAIL_LIST="***@***.** ***@***.**"
 export SCRIPT_HOME=/opt/orasync/scripts/threads
 DUMPS=/logs/dumps
 ####USER DEFINED ENVS###########
